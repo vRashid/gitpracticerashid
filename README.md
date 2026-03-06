@@ -3,3 +3,5 @@ git add - used tto stage changes before committing them. It tells Git which modi
 git clone - used to copy a remote repository to your local computer.
 
 git push - used to upload your committed changes from your local repository to the github repository.s
+
+-b is used to create a branch for our repository. 
